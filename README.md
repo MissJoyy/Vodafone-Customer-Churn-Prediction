@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <a name="readme-top"></a>
 
@@ -231,3 +232,6 @@ This project is [MIT](./LICENSE) licensed.
 
 
 
+=======
+# Vodafone-Customer-Churn-Prediction
+>>>>>>> 5a21779e34c547b1cba8e43726136b224f684644
